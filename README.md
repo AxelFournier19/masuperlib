@@ -1,4 +1,4 @@
 # masuperlib
 
-This is masuperlib.
+This is masuperlib
 
